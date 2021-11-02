@@ -698,7 +698,7 @@ ID	Original Text	Translated Text
 697	There’s all sorts of junk out there. Most of it is useless. but you’d be surprised what some people consider trash. Spare batteries. for example.	There’s all sorts of junk out there. Most of it is useless. but you’d be surprised what some people consider trash. Spare batteries. for example.
 698	Scrap	Scrap
 699	This is Waste Site-9B31. a Colonial Union designated waste planet. It wasn’t viable for terraforming. so it has since become one of the few dump sites scattered across the galaxy. This particular planet is open to all active factions and has been in operation for well over twenty Union-standard years. Surprisingly enough. even being out here on the fringes of the known universe. the junk has built up to such a copious extent that mountains of waste have sprung into existence over the years.	This is Waste Site-9B31. a Colonial Union designated waste planet. It wasn’t viable for terraforming. so it has since become one of the few dump sites scattered across the galaxy. This particular planet is open to all active factions and has been in operation for well over twenty Union-standard years. Surprisingly enough. even being out here on the fringes of the known universe. the junk has built up to such a copious extent that mountains of waste have sprung into existence over the years.
-700	Planet	Planet
+700	Planet	星球
 701	I oversee the waste collection here in this quadrant of the surface. It’s not a very exciting job. Just the junk and me. alone. With occasional dust storms sweeping in and jamming my movable parts. Do you have any idea how many times I have to re-oil my hinges? I yearn for clear blue skies and vibrant vegetation and green grass as far as the visual sensors can see. Ah. well. Only another three decades before I’m transferred.	I oversee the waste collection here in this quadrant of the surface. It’s not a very exciting job. Just the junk and me. alone. With occasional dust storms sweeping in and jamming my movable parts. Do you have any idea how many times I have to re-oil my hinges? I yearn for clear blue skies and vibrant vegetation and green grass as far as the visual sensors can see. Ah. well. Only another three decades before I’m transferred.
 702	Waste Bot	Waste Bot
 703	Ugh. those nasty brutes. I can’t step one foot out of my bunker without them buzzing in my sound receptors. They weren’t always as active as they are now. There used to be a hive a few kilometers from here. but it was destroyed when a W.D. cargo vessel dumped several sheets of damaged hull plating onto the planet’s surface. Outright crushed the hive. Those things have been increasingly aggressive ever since. Then again. for someone like you. they’re nothing a few phase pistols can’t handle. 	Ugh. those nasty brutes. I can’t step one foot out of my bunker without them buzzing in my sound receptors. They weren’t always as active as they are now. There used to be a hive a few kilometers from here. but it was destroyed when a W.D. cargo vessel dumped several sheets of damaged hull plating onto the planet’s surface. Outright crushed the hive. Those things have been increasingly aggressive ever since. Then again. for someone like you. they’re nothing a few phase pistols can’t handle. 
@@ -4087,7 +4087,7 @@ ID	Original Text	Translated Text
 4086	Destroy Unit 91. Div #2	Destroy Unit 91. Div #2
 4087	Destroy Unit 94. Div #2	Destroy Unit 94. Div #2
 4088	Reclaim W.D. Cargo	Reclaim W.D. Cargo
-4089	Wolden-Dorf HQ	Wolden-Dorf HQ
+4089	Wolden-Dorf HQ	沃尔登-多尔夫  总部
 4090	Eliminate The Retribution and retrieve cargo	Eliminate The Retribution and retrieve cargo
 4091	Eliminate Intruder	Eliminate Intruder
 4092	CU Intrepid entered W.D. space. violating galactic zone laws. Eliminate intruder.	CU Intrepid entered W.D. space. violating galactic zone laws. Eliminate intruder.
@@ -4735,7 +4735,7 @@ ID	Original Text	Translated Text
 4785	Page 1 / 4	Page 1 / 4
 4786	Ship Name	舰船名称
 4787	Ironman Mode	铁人模式
-4788	Is Private Game	Is Private Game
+4788	Is Private Game	私人游戏
 4789	ENGAGE	ENGAGE
 4790	Secured Game$<color=#aaa>(Steam Players Only)</color>	安全游戏$<color=#aaa>(Steam Players Only)</color>
 4791	Reset AI Settings	Reset AI Settings
@@ -5421,7 +5421,7 @@ ID	Original Text	Translated Text
 5525	Outrider	Outrider
 5528	Stargazer	Stargazer
 5540	Roland	Roland
-5544	Carrier	货船
+5544	Carrier 货船
 5548	Alchemist	Alchemist
 5562	Grim Cutlass	Grim Cutlass
 5563	U.S.S. 	U.S.S. 
@@ -6624,12 +6624,12 @@ ID	Original Text	Translated Text
 7574	</color>$	</color>$
 7575	<i>Main Campaign</i>$$Explore the galaxy in search of data fragments in order to reach the mysterious Lost Colony	<i>主要战役</i>$$探索银河系，寻找数据碎片，以到达神秘的失落殖民地。
 7576	<i>Challenge Campaign</i>$$Join the Polytechic Federation and defend the galaxy from the Unseen	<i>Challenge Campaign</i>$$Join the Polytechic Federation and defend the galaxy from the Unseen
-7577	 Hull$	 船体$
-7578	 Armor$	 装甲$
-7579	 Shields$	 护盾$
-7580	 Mass$	 Mass$
-7581	 Thrust$	 推进器$
-7582	 Warp Range$	 Warp Range$
+7577	 Hull$	船体$
+7578	 Armor$	装甲$
+7579	 Shields$	护盾$
+7580	 Mass$	Mass$
+7581	 Thrust$	推进器$
+7582	 Warp Range$	 跃迁范围$
 7583	REVERSIBLE MAIN THRUSTERS	REVERSIBLE MAIN THRUSTERS
 7584	FORWARD MAIN THRUSTERS	FORWARD MAIN THRUSTERS
 7585	$NO EXTRACTOR SUPPORT	$NO EXTRACTOR SUPPORT
@@ -6730,7 +6730,7 @@ ID	Original Text	Translated Text
 7686	Time	Time
 7687	SteamCloudIcon	SteamCloudIcon
 7688	DeleteSave	DeleteSave
-7689	W.D. Cruiser	W.D.巡洋舰
+7689	W.D. Cruiser	W.D. 巡洋舰
 7690	Intrepid SC	Intrepid SC
 7691	W.D. Destroyer	W.D. Destroyer
 7692	W.D. Annihilator	W.D. Annihilator
@@ -6982,11 +6982,11 @@ ID	Original Text	Translated Text
 7992	/Saves/AI/	/Saves/AI/
 7993	*	*
 7994	ReadFromAIFile EXCEPTION	ReadFromAIFile EXCEPTION
-7995	Automated Railgun Turret	Automated Railgun Turret
-7996	A fully automated turret system designed to fire without direct crew control.	A fully automated turret system designed to fire without direct crew control.
-7997	AUTO TURRET	AUTO TURRET
-7998	Plasma Turret	Plasma Turret
-7999	A standard armament that can be found on many ships. It is known for its fast firing capability and high damage.	A standard armament that can be found on many ships. It is known for its fast firing capability and high damage.
+7995	Automated Railgun Turret	自动轨道炮炮塔
+7996	A fully automated turret system designed to fire without direct crew control.	一种完全自动化的炮塔系统，可以在没有人员直接控制的情况下开火。
+7997	AUTO TURRET	自动炮塔
+7998	Plasma Turret	等离子炮塔
+7999	A standard armament that can be found on many ships. It is known for its fast firing capability and high damage.	在许多船上都能找到的标准武器。它以快速射击能力和高伤害而闻名。
 8000	Ant_Drone	Ant_Drone
 8001	WELCOME TO THE ARENA!	WELCOME TO THE ARENA!
 8002	ARENA	ARENA
@@ -7740,8 +7740,8 @@ ID	Original Text	Translated Text
 8844	Fires an acidic stream that poisons onboard crew and reduces a ship’s armor effectiveness for a short time.	Fires an acidic stream that poisons onboard crew and reduces a ship’s armor effectiveness for a short time.
 8845	PHYSICAL (ACID)	PHYSICAL (ACID)
 8846	Standard-issue biscuit bomb for Fluffy Biscuit Co. delivery vessels. It is a powerful EMP device that can shut down all enemy ships in a sector.	这是由毛绒饼干公司研发的标准型饼干炸弹。它是一个强大的EMP装置，可以关闭一个区域内的所有敌方船只。
-8847	Colonial Classic Captain's Chair	Colonial Classic Captain's Chair
-8848	A design of chair that has been installed in Colonial Union ships for many decades. It is quite comfortable. $$+10% EM Detection	A design of chair that has been installed in Colonial Union ships for many decades. It is quite comfortable. $$+10% EM Detection
+8847	Colonial Classic Captain's Chair	殖民经典船长椅
+8848	A design of chair that has been installed in Colonial Union ships for many decades. It is quite comfortable. $$+10% EM Detection	一种几十年来一直安装在殖民地联盟船只上的椅子设计，它是相当舒适的， $$+10% 电磁辐射
 8849	Colonial Modern Captain's Chair	Colonial Modern Captain's Chair
 8850	A new chair designed for Colonial Union ships. Though stiffer than the classic chairs used by the Colonial Union Fleet, this chair offers wonderful lumbar support. $$+10% Shield Charge Rate	A new chair designed for Colonial Union ships. Though stiffer than the classic chairs used by the Colonial Union Fleet, this chair offers wonderful lumbar support. $$+10% Shield Charge Rate
 8851	W.D. Classic Captain's Chair	W.D. Classic Captain's Chair
@@ -7763,7 +7763,7 @@ ID	Original Text	Translated Text
 8867	Heat Reduction	Heat Reduction
 8868	Thrust Boost	Thrust Boost
 8869	Charge Rate & Cooling	Charge Rate & Cooling
-8870	Warp Charge Boost	Warp Charge Boost
+8870	Warp Charge Boost	增加跃迁充电
 8871	Eng Sys. Heal	Eng Sys. Heal
 8872	Life Sup. Sys. Heal	Life Sup. Sys. Heal
 8873	Sci Sys. Heal	Sci Sys. Heal
@@ -7772,7 +7772,7 @@ ID	Original Text	Translated Text
 8876	Warp Range	Warp Range
 8877	Overcharge	Overcharge
 8878	Ship Startup Speed	Ship Startup Speed
-8879	Max Shield Integrity	Max Shield Integrity
+8879	Max Shield Integrity		最大护盾容量
 8880	CyberAttack	CyberAttack
 8881	JP	JP
 8882	SCP	SCP
@@ -7798,8 +7798,8 @@ ID	Original Text	Translated Text
 8902	Processor that reduces reactor heat generation when hull is less than 30%.	Processor that reduces reactor heat generation when hull is less than 30%.
 8903	ARX-TGT	ARX-TGT
 8904	Processor that boosts turret damage and turret cooling.	Processor that boosts turret damage and turret cooling.
-8905	BKP-WARP	BKP-WARP
-8906	Processor that boosts warp charge rate when hull is less than 30%.	Processor that boosts warp charge rate when hull is less than 30%.
+8905	BKP-WARP	BKP-跃迁
+8906	Processor that boosts warp charge rate when hull is less than 30%.	当船体低于30%时提高曲速冲锋率的处理器。
 8907	BKP-THRUST	BKP-THRUST
 8908	Processor that boosts thrust when hull is less than 30%.	Processor that boosts thrust when hull is less than 30%.
 8909	BKP-WPN-POWER	BKP-WPN-POWER
@@ -7912,7 +7912,7 @@ ID	Original Text	Translated Text
 9016	An unusual weapon that uses a custom fuel mix to project a stream of fire into space. The heat applied to a target ship can start onboard fires and overheat its reactor.	An unusual weapon that uses a custom fuel mix to project a stream of fire into space. The heat applied to a target ship can start onboard fires and overheat its reactor.
 9017	Heat	Heat
 9018	PHYSICAL (FIRE)	PHYSICAL (FIRE)
-9019	Integrity	Integrity
+9019	Integrity	容量
 9020	Armor	Armor
 9021	Armor (Max)	Armor (Max)
 9022	C.C.G. Hull	C.C.G. Hull
@@ -7923,7 +7923,7 @@ ID	Original Text	Translated Text
 9027	A special hull designed for a phase drone. It can withstand a multitude of warps in a short span of time.	A special hull designed for a phase drone. It can withstand a multitude of warps in a short span of time.
 9028	Nano-Active Hull	Nano-Active Hull
 9029	Utilizing Polytechnic Federation technology. this component employs trillions of nano-bots that repair segments of the hull during warp travel.	Utilizing Polytechnic Federation technology. this component employs trillions of nano-bots that repair segments of the hull during warp travel.
-9030	C.C.G. Hull - Military Grade	C.C.G. Hull - Military Grade
+9030	C.C.G. Hull - Military Grade	C.C.G. 船体 - 军用级别
 9031	W.D. Corporation's high-end C.C.G. hull. Very dense and durable. it is specially designed for warships and combat vessels.	W.D. Corporation's high-end C.C.G. hull. Very dense and durable. it is specially designed for warships and combat vessels.
 9032	Sentry Drone Hull	Sentry Drone Hull
 9033	A massive and sturdy hull designed by Tricorp for its sentry drones.	A massive and sturdy hull designed by Tricorp for its sentry drones.
@@ -7944,14 +7944,14 @@ ID	Original Text	Translated Text
 9048	Warp Guardian Hull	Warp Guardian Hull
 9049	This hull is exceptionally strong	This hull is exceptionally strong
 9050	Polytech Hull	Polytech Hull
-9051	Hull Plating (CCGE)	Hull Plating (CCGE)
-9052	An extra layer of reinforced hull plating that prevents system damage from attacks under the ship and reduces hull damage.	An extra layer of reinforced hull plating that prevents system damage from attacks under the ship and reduces hull damage.
+9051	Hull Plating (CCGE)	船体镀层 (CCGE)
+9052	An extra layer of reinforced hull plating that prevents system damage from attacks under the ship and reduces hull damage.	一层额外的强化船体镀层，可以防止舰船攻击造成的系统损坏，并减少船体损坏。
 9053	Standard maneuvering thruster. Provides the ability for the ship to translate in any direction.	Standard maneuvering thruster. Provides the ability for the ship to translate in any direction.
 9054	Heavy Maneuvering Thruster	Heavy Maneuvering Thruster
 9055	Typically used for ships with greater mass. this maneuvering thruster has more thrust than a standard model but also requires more power. Provides the ability for the ship to translate in any direction.	Typically used for ships with greater mass. this maneuvering thruster has more thrust than a standard model but also requires more power. Provides the ability for the ship to translate in any direction.
 9056	Racing Maneuvering Thruster	Racing Maneuvering Thruster
 9057	Used almost exclusively for racing. this maneuvering thruster has superior thrust but requires a great deal of power. Provides the ability for the ship to translate in any direction.	Used almost exclusively for racing. this maneuvering thruster has superior thrust but requires a great deal of power. Provides the ability for the ship to translate in any direction.
-9058	Maneuver Thrust	机动推力
+9058	Maneuver Thrust	机动性推进器
 9059	Colonial Union medical supplies that were likely stolen from a transport ship.	Colonial Union medical supplies that were likely stolen from a transport ship.
 9060	W.D. Weapon Parts	W.D. Weapon Parts
 9061	Boxes of unassembled W.D. weapons.	Boxes of unassembled W.D. weapons.
@@ -8017,7 +8017,7 @@ ID	Original Text	Translated Text
 9121	P.T. Module: Thrust	P.T. Module: Thrust
 9122	2x main thrusters while equipped$<color=red>Warning: This component reduces reactor stability over time and disables shield charging. Not recommended for extended use</color>	2x main thrusters while equipped$<color=red>Warning: This component reduces reactor stability over time and disables shield charging. Not recommended for extended use</color>
 9123	 MW$	 MW$
-9125	 MW</color>$	 MW</color>$
+9125	 MW</color>$	MW</color>$
 9126	Power Usage$	电源需求$
 9127	Railgun Turret	磁轨炮塔
 9128	A standard armament that can be found on many ships. It is known for its fast firing capability.	A standard armament that can be found on many ships. It is known for its fast firing capability.
@@ -8035,8 +8035,8 @@ ID	Original Text	Translated Text
 9142	Produces reliable energy output. The design of this reactor was inspired by Old Wars technology, and it is used on many active ships today.	Produces reliable energy output. The design of this reactor was inspired by Old Wars technology, and it is used on many active ships today.
 9143	Reinforced Null Point Reactor	Reinforced Null Point Reactor
 9144	State-of-the-art energy generation with impressive output. Uses advanced cooling systems coupled with reinforced alloys that can withstand high temperatures. This reactor is not only powerful, but safe.	State-of-the-art energy generation with impressive output. Uses advanced cooling systems coupled with reinforced alloys that can withstand high temperatures. This reactor is not only powerful, but safe.
-9145	Colonial Fusion Reactor	Colonial Fusion Reactor
-9146	Reliable. safe. and efficient. this reactor was designed for the Colonial Union Fleet but has become one of the most commonly used reactors even on civilian and transport ships. It is tried and true technology.	Reliable. safe. and efficient. this reactor was designed for the Colonial Union Fleet but has become one of the most commonly used reactors even on civilian and transport ships. It is tried and true technology.
+9145	Colonial Fusion Reactor	殖民地核聚变反应堆
+9146	Reliable. safe. and efficient. this reactor was designed for the Colonial Union Fleet but has become one of the most commonly used reactors even on civilian and transport ships. It is tried and true technology.	可靠、安全、高效。这个反应堆是为殖民地联盟舰队设计的，现在已经成为最常用的反应堆之一，甚至在民用和运输船上也是如此。它是久经考验的真实技术。
 9147	Military-Grade Fusion Reactor	Military-Grade Fusion Reactor
 9148	Newer version of the Colonial Fusion Reactor. Has increased energy output and can handle higher core temperatures. It is frequently used on Colonial Union military and police vessels.	Newer version of the Colonial Fusion Reactor. Has increased energy output and can handle higher core temperatures. It is frequently used on Colonial Union military and police vessels.
 9149	Advanced Fusion Reactor	Advanced Fusion Reactor
@@ -8102,23 +8102,23 @@ ID	Original Text	Translated Text
 9209	Sylvassi Shields	西尔瓦西护盾
 9210	A unique shield generator that increases shield charge rate when shield integrity is above 50%. It is a modern version of old Sylvassi shield technology.	一个独特的护盾发生器，当护盾容量高于50% 时会增加护盾充能率。它是旧西尔瓦西护盾技术的现代版本。
 9211	Polytech Shields	Polytech Shields
-9212	Min Integrity	Min Integrity
-9213	Charge Rate	充电率
-9214	Min For QT Shields	Min For QT Shields
+9212	Min Integrity	最小容量
+9213	Charge Rate	充能速度
+9214	Min For QT Shields	量子护盾最低要求
 9215	Perf (Chg. Rate + Int + Other)$Performance Total$Cost Ratio$Power Ratio$Balance Ratio	Perf (Chg. Rate + Int + Other)$Performance Total$Cost Ratio$Power Ratio$Balance Ratio
 9216	({0} + {1} + {2})${3}${4}${5}${6}	({0} + {1} + {2})${3}${4}${5}${6}
-9217	Sylvassi Turret	Sylvassi Turret
+9217	Sylvassi Turret	西尔瓦西炮塔
 9218	Long range laser weapon that is particularly powerful against hulls and ship systems. Has enhanced auto-aim that can shoot down some missiles.	Long range laser weapon that is particularly powerful against hulls and ship systems. Has enhanced auto-aim that can shoot down some missiles.
 9219	The \^Adelaide\^ Thruster	The \^Adelaide\^ Thruster
-9220	Named after Captain Adelaide, an engineer and hero from the Old Wars. This thruster has a high max output and can propel many types of ships quickly and efficiently.	Named after Captain Adelaide, an engineer and hero from the Old Wars. This thruster has a high max output and can propel many types of ships quickly and efficiently.
-9221	Performance Vector Thruster	Performance Vector Thruster
+9220	Named after Captain Adelaide, an engineer and hero from the Old Wars. This thruster has a high max output and can propel many types of ships quickly and efficiently.	以阿德莱德上尉的名字命名，他是一名工程师和古代战争中的英雄。该推进器具有很高的最大输出功率，可以快速有效地推动多种类型的舰船。
+9221	Performance Vector Thruster	高性能矢量推进器
 9222	Military-grade thruster system capable of impressive forward thrust.	Military-grade thruster system capable of impressive forward thrust.
-9223	Small Vector Thruster	Small Vector Thruster
+9223	Small Vector Thruster	小型矢量推进器
 9224	Used to propel a ship forward. It does not have as much thrust as other products on the market, but it uses little power.	Used to propel a ship forward. It does not have as much thrust as other products on the market, but it uses little power.
-9225	Racing Thruster	Racing Thruster
+9225	Racing Thruster	竞速推进器
 9226	A thruster with extreme forward thrust. It is a favorite among racing ships, though it is often tinkered with to push it to greater limits. As it requires a massive amount of power, it is not meant to be used over long durations.	A thruster with extreme forward thrust. It is a favorite among racing ships, though it is often tinkered with to push it to greater limits. As it requires a massive amount of power, it is not meant to be used over long durations.
-9227	Dark Thruster	Dark Thruster
-9228	A forward thruster with very good power efficiency. It was originally designed to accompany a warp drive that has since been declared contraband by the Colonial Union. The thrusters, however, are still legal to use.	A forward thruster with very good power efficiency. It was originally designed to accompany a warp drive that has since been declared contraband by the Colonial Union. The thrusters, however, are still legal to use.
+9227	Dark Thruster	黑暗型推进器
+9228	A forward thruster with very good power efficiency. It was originally designed to accompany a warp drive that has since been declared contraband by the Colonial Union. The thrusters, however, are still legal to use.	一款具有非常好的功率前向推进器。它最初是为配合曲速驱动器而设计的，后来被殖民地联盟宣布为违禁品。不过，该推进器仍可合法使用。
 9229	Sitting Duck	Sitting Duck
 9230	Disables ship thrusters	Disables ship thrusters
 9231	Warp Disable	Warp Disable
@@ -8152,8 +8152,8 @@ ID	Original Text	Translated Text
 9259	Causes the ship screens to malfunction	Causes the ship screens to malfunction
 9260	Syber's Shield	Syber's Shield
 9261	Reduces turret damage by 30%	Reduces turret damage by 30%
-9262	Armor Flaw	Armor Flaw
-9263	Reduces armor effectiveness by 50%	Reduces armor effectiveness by 50%
+9262	Armor Flaw	装甲缺点
+9263	Reduces armor effectiveness by 50%	减少50%的装甲效果
 9264	Shutdown Defenses	Shutdown Defenses
 9265	Disables defensive systems	Disables defensive systems
 9266	Visit The Virus Shop!	Visit The Virus Shop!
@@ -8173,11 +8173,11 @@ ID	Original Text	Translated Text
 9280	Warp drive that provides reasonable jump capability and above average computational power. It is commonly used by supply ships.	Warp drive that provides reasonable jump capability and above average computational power. It is commonly used by supply ships.
 9281	G.T.C. Custom	G.T.C. Custom
 9282	A Gentlemen Trade Commission original warp drive. It provides increased computational power and a low signature.	A Gentlemen Trade Commission original warp drive. It provides increased computational power and a low signature.
-9283	Explorers United Jump Drive	Explorers United Jump Drive
+9283	Explorers United Jump Drive	探险者联盟跃迁引擎
 9284	Pricey but robust warp drive with a very long range. It was designed specifically for members of the ‘Explorers United’ intergalactic spacefaring organization, but it is available for general use.	Pricey but robust warp drive with a very long range. It was designed specifically for members of the ‘Explorers United’ intergalactic spacefaring organization, but it is available for general use.
-9285	W.D. Jump Drive	W.D. Jump Drive
+9285	W.D. Jump Drive	W.D. 跃迁引擎
 9286	Standard warp drive for W.D. Corporation vessels. It has decent range but a very loud signature.	Standard warp drive for W.D. Corporation vessels. It has decent range but a very loud signature.
-9287	W.D. Military Jump Drive	W.D. Military Jump Drive
+9287	W.D. Military Jump Drive	W.D. 军用跃迁引擎
 9288	A more advanced warp drive for W.D. Corporation combat vessels. It has a long range and is quieter than the W.D. Corp’s standard jump drive.	A more advanced warp drive for W.D. Corporation combat vessels. It has a long range and is quieter than the W.D. Corp’s standard jump drive.
 9289	Dark Drive	Dark Drive
 9290	Warp drive with no signature. Because of its potential for malicious use, it has been labelled contraband by the Colonial Union.	Warp drive with no signature. Because of its potential for malicious use, it has been labelled contraband by the Colonial Union.
@@ -8345,8 +8345,8 @@ ID	Original Text	Translated Text
 9452	MissileAmmo	MissileAmmo
 9453	FillSlow	FillSlow
 9454	Talking	Talking
-9455	At Ease	稍息
-9456	At Attention	立正
+9455	At Ease	待命
+9456	At Attention	巡逻
 9457	Hide From Sensors	躲避传感器
 9458	Stay Close To Captain	紧跟船长
 9459	Offensive Attack	主动攻击
@@ -8472,7 +8472,7 @@ ID	Original Text	Translated Text
 9616	COMPARE	COMPARE
 9619	Fuel Capsules (	Fuel Capsules (
 9620	 / 200)	 / 200)
-9621	Coolant (	Coolant (
+9621	Coolant (	冷却剂 (
 9622	%)	%)
 9623	 Refill	 Refill
 9624	MISSILE REFILL	MISSILE REFILL
@@ -8618,16 +8618,16 @@ ID	Original Text	Translated Text
 9781	Flagged	Flagged
 9782	 Attributes$	 Attributes$
 9783	 Hull	 船体
-9784	 Hull Armor	 船体护甲
+9784	 Hull Armor	 船体装甲
 9785	 <color=#00FF00>(+ 	 <color=#00FF00>(+ 
 9786	%)</color>	%)</color>
 9787	 Shields	 Shields
-9788	 Shield Charge Rate	 护盾回复速率
+9788	 Shield Charge Rate	 护盾充能速度
 9789	 Reactor Output	 反应堆输出功率
 9790	 Reactor Temp	 反应堆温度
 9791	$<color=#00FF00>Turret Charge Speed (+	$<color=#00FF00>炮塔充能速度 (+
 9792	$<color=#FF0000>Turret Charge Speed (-	$<color=#FF0000>炮塔充能速度 (-
-9793	 Warp Range	 曲速范围
+9793	 Warp Range	 跃迁范围
 9794	$<color=#00FF00>Turret Damage (+	$<color=#00FF00>Turret Damage (+
 9795	$<color=#FF0000>Turret Damage (-	$<color=#FF0000>Turret Damage (-
 9796	Move to Cargo	移至货舱
@@ -9096,7 +9096,7 @@ ID	Original Text	Translated Text
 10293	off	关
 10295	low	低
 10297	high	高
-10298	Fuel Capsules	Fuel Capsules
+10298	Fuel Capsules	燃料
 10300	Load Fuel	Load Fuel
 10303	on	开
 10304	Unload Fuel	Unload Fuel
@@ -9310,12 +9310,12 @@ ID	Original Text	Translated Text
 10655	Binary	自动加、减速
 10657	Precise	手动加、减速
 10658	Show Sectors	显示星区
-10675	Jump Calculation	跳跃计算
+10675	Jump Calculation	跃迁计算
 10676	Warp Drive Charge	跃迁引擎充能
-10677	Finalize Jump Data	最终化跳跃数据
+10677	Finalize Jump Data	最终化跃迁数据
 10678	Jump Computer	跳跃计算机
 10679	Emergency Blind Jump	紧急盲跳
-10680	Initiate Jump Prep	开始跳跃准备
+10680	Initiate Jump Prep	开始跃迁准备
 10681	BlindJump	BlindJump
 10682	Perform Blind Jump	Perform Blind Jump
 10683	Warp Drive Unavailable	Warp Drive Unavailable
@@ -9375,7 +9375,7 @@ ID	Original Text	Translated Text
 10743	EM	EM
 10744	Provides information on a target ship's systems and power levels.	Provides information on a target ship's systems and power levels.
 10745	Light Frigate	轻型护卫舰
-10746	+30% EM Detection	+30% 电磁脉冲侦测
+10746	+30% EM Detection	+30% 电磁辐射
 10747	+20% Warp Range	+20% 跃迁范围
 10748	+15% Diplomacy	+15% 外交技巧
 10749	Caustic Corsair	Caustic Corsair
@@ -10487,8 +10487,8 @@ ID	Original Text	Translated Text
 11857	Targeting Module	Targeting Module
 11858	Power Conduit	Power Conduit
 11859	Phase Transporter	Phase Transporter
-11860	Lower Armor	Lower Armor
-11861	High Rollers Station	High Rollers Station
+11860	Lower Armor	降低装甲
+11861	High Rollers Station	高铁车站
 11862	High Rollers casino station.	High Rollers casino station.
 11863	Bartender Bot	Bartender Bot
 11864	Aveza	Aveza
