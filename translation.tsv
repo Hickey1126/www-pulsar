@@ -5843,7 +5843,7 @@ ID	Original Text	Translated Text
 6486	Increased biscuit sell success chance	Increased biscuit sell success chance
 6487	Damaging nearby enemies	Damaging nearby enemies
 6488	Increased grenade damage	Increased grenade damage
-6489	Gun Cooling	Gun Cooling
+6489	Gun Cooling	枪支冷却
 6490	Lifesteal	Lifesteal
 6500	[STR0] revived you!	[STR0] revived you!
 6501	Environment	Environment
@@ -6438,7 +6438,7 @@ ID	Original Text	Translated Text
 7388	PULSAR is currently running in offline mode. You will not be able to play with other players unless it is disabled!	PULSAR is currently running in offline mode. You will not be able to play with other players unless it is disabled!
 7389	Continue in offline mode	Continue in offline mode
 7390	Request / Delete Data	Request / Delete Data
-7391	Attempt to connect and play online	Attempt to connect and play online
+7391	Attempt to connect and play online	尝试连接并进行在线游戏
 7392	Opens a webpage that allows you to see the data collected or delete your data and disable analytics	Opens a webpage that allows you to see the data collected or delete your data and disable analytics
 7393	Continue to the game with your current settings	Continue to the game with your current settings
 7394	Continue to the game and turn off analytics	Continue to the game and turn off analytics
@@ -7180,7 +7180,7 @@ ID	Original Text	Translated Text
 8190	Open_Trading_Window	Open_Trading_Window
 8191	End_Dialogue	End_Dialogue
 8192	Intimidate	Intimidate
-8193	Diplomacy	Diplomacy
+8193	Diplomacy	外交
 8194	Extort_Credits	Extort_Credits
 8195	Extort_Fuel	Extort_Fuel
 8196	Lower_Shields	Lower_Shields
@@ -7282,124 +7282,124 @@ ID	Original Text	Translated Text
 8292	Inf	Inf
 8293	P.T.	P.T.
 8294	No Faction	No Faction
-8295	Health Boost	Health Boost
-8296	+20 to max health per rank	+20 to max health per rank
-8297	Armor Boost	Armor Boost
-8298	+1 Armor per rank	+1 Armor per rank
-8299	Quick Reload I	Quick Reload I
-8300	+8% to reload speed per rank	+8% to reload speed per rank
-8301	Quick Reload II	Quick Reload II
-8302	Turret Cooling Optimizations	Turret Cooling Optimizations
-8303	+5% to crew Turret Cooling rate per rank	+5% to crew Turret Cooling rate per rank
-8304	Health Boost II	Health Boost II
-8305	Armor Boost II	Armor Boost II
-8306	Oxygen Survival	Oxygen Survival
-8307	Last 20% longer without oxygen per rank	Last 20% longer without oxygen per rank
-8308	Pistoleer	Pistoleer
-8309	Boosts pistol damage by 10% per rank	Boosts pistol damage by 10% per rank
-8310	Custom DNA	Custom DNA
-8311	Decreases respawn time by 12% per rank	Decreases respawn time by 12% per rank
-8312	Advanced Operator	Advanced Operator
-8313	Allows use of the main turret systems	Allows use of the main turret systems
-8314	Sensor Dish Certification	Sensor Dish Certification
-8315	Allows use of the sensor dish	Allows use of the sensor dish
+8295	Health Boost	生命增强
+8296	+20 to max health per rank	+20 每级最大生命值上限
+8297	Armor Boost	护甲提升
+8298	+1 Armor per rank	每级+1的护甲
+8299	Quick Reload I	快速装填 I
+8300	+8% to reload speed per rank	+8% 每级重新装填速度
+8301	Quick Reload II	快速装填 II
+8302	Turret Cooling Optimizations	炮塔冷却优化
+8303	+5% to crew Turret Cooling rate per rank	+5% 每级对炮塔的冷却率
+8304	Health Boost II	生命增强 II
+8305	Armor Boost II	护甲提升 II
+8306	Oxygen Survival	氧气持续时间
+8307	Last 20% longer without oxygen per rank	在没有氧气的情况下，每个等级的持续时间延长20%。
+8308	Pistoleer	手枪手
+8309	Boosts pistol damage by 10% per rank	每级提升10%的手枪伤害
+8310	Custom DNA	自定义 DNA
+8311	Decreases respawn time by 12% per rank	每级的重生时间减少12%。
+8312	Advanced Operator	高级操作员
+8313	Allows use of the main turret systems	允许使用主炮塔系统
+8314	Sensor Dish Certification	感应盘使用
+8315	Allows use of the sensor dish	允许使用传感器盘
 8316	Crew Marathon Training	船员马拉松训练
 8317	Increases crew run speed by 6% per rank	每级增加6%的船员移动速度
-8318	Scavenger	Scavenger
+8318	Scavenger	拾荒者
 8319	Increases captured credits by 10% per rank	每级增加10%所获得的金钱
-8320	Shopping Spree	Shopping Spree
-8321	Reduces prices at shops by 5% per rank	Reduces prices at shops by 5% per rank
-8322	Racing School	Racing School
-8323	Boosts ship thrust 5% per rank	Boosts ship thrust 5% per rank
-8324	Special Inertia Training	Special Inertia Training
-8325	Boosts ship rotation speed 5% per rank	Boosts ship rotation speed 5% per rank
-8326	Scanner Alignment	Scanner Alignment
-8327	Boosts ship detection level 10% per rank	Boosts ship detection level 10% per rank
-8328	Custom Shield Algorithms	Custom Shield Algorithms
-8329	Reduces ship signature level 10% per rank	Reduces ship signature level 10% per rank
-8330	Bridge Medic	Bridge Medic
-8331	Heals nearby allies for a small amount over time	Heals nearby allies for a small amount over time
-8332	Frequency Amplification	Frequency Amplification
-8333	Increases positive effects of the shield frequency setting.	Increases positive effects of the shield frequency setting.
-8334	Probe Specialty: XP Gain	Probe Specialty: XP Gain
-8335	Increased chance to gain extra XP when performing probe research (10% per rank)	Increased chance to gain extra XP when performing probe research (10% per rank)
-8336	Probe Specialty: Cooldown	Probe Specialty: Cooldown
-8337	Decreased cooldown and capacitor usage when firing probes (-10% per rank)	Decreased cooldown and capacitor usage when firing probes (-10% per rank)
-8338	Nano Anti-Fire System	Nano Anti-Fire System
-8339	Slows the spread and growth of fires	Slows the spread and growth of fires
-8340	Auto-Repair Module	Auto-Repair Module
-8341	Repairs major systems over time	Repairs major systems over time
-8342	Custom Coolant Mix	Custom Coolant Mix
-8343	Reduces the amount of coolant used by 8% per rank	Reduces the amount of coolant used by 8% per rank
-8344	Turret Charge Booster	Turret Charge Booster
-8345	Increases charge speed of turret you are operating	Increases charge speed of turret you are operating
-8346	Missile Expert	Missile Expert
-8347	Increases missile lock on rate by 25% per rank	Increases missile lock on rate by 25% per rank
+8320	Shopping Spree	购物狂欢
+8321	Reduces prices at shops by 5% per rank	在商店的价格每级降低5%。
+8322	Racing School	航天学院
+8323	Boosts ship thrust 5% per rank	每级提升飞船推力5%。
+8324	Special Inertia Training	特殊惯性训练
+8325	Boosts ship rotation speed 5% per rank	每级提升舰船旋转速度5%。
+8326	Scanner Alignment	扫描仪对准
+8327	Boosts ship detection level 10% per rank	每级提升飞船探测水平10%。
+8328	Custom Shield Algorithms	自定义护盾算法
+8329	Reduces ship signature level 10% per rank	每级降低飞船辐射等级10%。
+8330	Bridge Medic	舰桥医生
+8331	Heals nearby allies for a small amount over time	在一段时间内治疗附近的盟友，治疗量很小。
+8332	Frequency Amplification	频率放大
+8333	Increases positive effects of the shield frequency setting.	增加屏蔽频率设置的积极效果。
+8334	Probe Specialty: XP Gain	探测仪专业: XP 增长
+8335	Increased chance to gain extra XP when performing probe research (10% per rank)	在进行探测研究时增加获得额外XP的机会 (10% 每级)
+8336	Probe Specialty: Cooldown	探测仪专业: 冷却时间
+8337	Decreased cooldown and capacitor usage when firing probes (-10% per rank)	减少了发射探测仪的冷却时间和电容用量 (-10% 每级)
+8338	Nano Anti-Fire System	纳米反火灾系统
+8339	Slows the spread and growth of fires	减缓火灾的蔓延和增长
+8340	Auto-Repair Module	自动维修模块
+8341	Repairs major systems over time	随着时间的推移，对主要系统进行维修
+8342	Custom Coolant Mix	定制混合冷却液
+8343	Reduces the amount of coolant used by 8% per rank	每级减少8%的冷却剂使用量
+8344	Turret Charge Booster	炮塔充能器
+8345	Increases charge speed of turret you are operating	增加你所操作的炮塔的充能速度
+8346	Missile Expert	导弹专家
+8347	Increases missile lock on rate by 25% per rank	每级增加25%的导弹锁定率
 8348	Turret Range	炮塔射程
 8349	Increases your turret's range by 10% per rank	炮塔的射程每级增加10%。
 8350	Custom Jetpack Fuel	定制喷气背包燃料
-8351	Increases your jetpack's recharge rate by 25% per rank	Increases your jetpack's recharge rate by 25% per rank
-8352	Strength Boost	Strength Boost
-8353	Increases carrying capacity by 10 per rank	Increases carrying capacity by 10 per rank
-8354	Stamina Boost	Stamina Boost
-8355	Increases your stamina by 20% per rank	Increases your stamina by 20% per rank
-8356	Armored Skin Cells	Armored Skin Cells
-8357	Decreases incoming damage by 10% per rank	Decreases incoming damage by 10% per rank
-8358	Crew Heavy Armor Training	Crew Heavy Armor Training
-8359	All crew members gain additional Armor (+1 per rank)	All crew members gain additional Armor (+1 per rank)
-8360	Research Specialty	Research Specialty
-8361	Reduces the warps required to research talents by 1	Reduces the warps required to research talents by 1
-8362	All crew guns will cool down 5% faster per rank	All crew guns will cool down 5% faster per rank
-8363	Warp Charge Booster	Warp Charge Booster
-8364	Increases the warp drive charge rate by 20% per rank	Increases the warp drive charge rate by 20% per rank
-8365	Turret Zoom	Turret Zoom
-8366	Increases the zoom in turrets by 15% per rank	Increases the zoom in turrets by 15% per rank
-8367	Atrium Healing Enhancement	Atrium Healing Enhancement
-8368	Increases the rate you heal in Atriums by 40% per rank	Increases the rate you heal in Atriums by 40% per rank
-8369	Cloaked DNA	Cloaked DNA
-8370	Causes enemy atriums to heal you	Causes enemy atriums to heal you
-8371	Scanner Mode: Research Materials	Scanner Mode: Research Materials
-8372	Allows the scanner to detect research materials	Allows the scanner to detect research materials
-8373	Scanner Mode: Item Pickups	Scanner Mode: Item Pickups
-8374	Allows the scanner to detect item pickups	Allows the scanner to detect item pickups
+8351	Increases your jetpack's recharge rate by 25% per rank	每级增加你的喷气背包的充能25%。
+8352	Strength Boost	力量提升
+8353	Increases carrying capacity by 10 per rank	每级增加10的承载能力
+8354	Stamina Boost	增强耐力
+8355	Increases your stamina by 20% per rank	每级增加20%的耐力
+8356	Armored Skin Cells	装甲皮肤细胞
+8357	Decreases incoming damage by 10% per rank	每级减少受到的伤害10%。
+8358	Crew Heavy Armor Training	船员重型装甲训练
+8359	All crew members gain additional Armor (+1 per rank)	所有船员获得额外的装甲 (+1 每级)
+8360	Research Specialty	研究特长
+8361	Reduces the warps required to research talents by 1	研究天赋所需的材料减少1
+8362	All crew guns will cool down 5% faster per rank	所有船员的枪支冷却速度每级提高5%。
+8363	Warp Charge Booster	跃迁充能
+8364	Increases the warp drive charge rate by 20% per rank	每级增加20%的跃迁充能
+8365	Turret Zoom	炮塔缩放
+8366	Increases the zoom in turrets by 15% per rank	每级增加15%的炮塔缩放
+8367	Atrium Healing Enhancement	克隆再生疗效增强
+8368	Increases the rate you heal in Atriums by 40% per rank	在克隆再生舱中每级增加40%的治疗率
+8369	Cloaked DNA	隐形的 DNA
+8370	Causes enemy atriums to heal you	可以让敌对势力的克隆再生舱治疗你
+8371	Scanner Mode: Research Materials	扫描仪模式：研究材料
+8372	Allows the scanner to detect research materials	允许扫描仪检测研究材料
+8373	Scanner Mode: Item Pickups	扫描仪模式：物品拾取
+8374	Allows the scanner to detect item pickups	允许扫描仪检测物品的拾取情况
 8375	Reaction Time	Reaction Time
-8376	Reduces incoming hull damage by 5% per rank	Reduces incoming hull damage by 5% per rank
-8377	Damage Mitigation	Damage Mitigation
-8378	Reduces incoming system damage by 5% per rank	Reduces incoming system damage by 5% per rank
-8379	Encumbered Sprint	Encumbered Sprint
-8380	Allows sprinting while encumbered	Allows sprinting while encumbered
-8381	Turret Damage Booster	Turret Damage Booster
-8382	All friendly ship turrets will deal 4% more damage per rank	All friendly ship turrets will deal 4% more damage per rank
-8383	Upgraded Turret Power Conduits	Upgraded Turret Power Conduits
-8384	All friendly ship turrets will charge 4% faster per rank	All friendly ship turrets will charge 4% faster per rank
-8385	Custom Eye Implants	Custom Eye Implants
-8386	Piloting UI provides additional information	Piloting UI provides additional information
-8387	Anti-Radiation Injection	Anti-Radiation Injection
-8388	Radiation damage is 8% less per rank	Radiation damage is 8% less per rank
-8389	Auxiliary Power	Auxiliary Power
-8390	Aux systems generate 10% more power per rank	Aux systems generate 10% more power per rank
-8391	Diplomatic actions are 5% more likely to succeed per rank	Diplomatic actions are 5% more likely to succeed per rank
-8392	Intimidation	Intimidation
-8393	Intimidation actions are 5% more likely to succeed per rank	Intimidation actions are 5% more likely to succeed per rank
-8394	Extraction Training	Extraction Training
-8395	Increases chance of succesful extraction by 2% per rank	Increases chance of succesful extraction by 2% per rank
-8396	Reactor Calibration	Reactor Calibration
-8397	Increases core reactor output by 2% per rank	Increases core reactor output by 2% per rank
-8398	Reactor Cooling Specialist	Reactor Cooling Specialist
-8399	Decreases core reactor heat output by 2% per rank	Decreases core reactor heat output by 2% per rank
-8400	Screen Defensive Measures	Screen Defensive Measures
-8401	Increases friendly screen capture time by 5% per rank	Increases friendly screen capture time by 5% per rank
-8402	Screen Hacker	Screen Hacker
-8403	Decreases enemy screen capture time by 5% per rank	Decreases enemy screen capture time by 5% per rank
-8404	Reloader	Reloader
-8405	Small chance of gaining some ammo every shot	Small chance of gaining some ammo every shot
-8406	Screen Safety Systems	Screen Safety Systems
-8407	Decreases chance of ship screens exploding in battle	Decreases chance of ship screens exploding in battle
-8408	Item Upgrader Operator	Item Upgrader Operator
-8409	Allows use of the Item Upgrader	Allows use of the Item Upgrader
-8410	Component Upgrader Operator	Component Upgrader Operator
-8411	Allows use of the Component Upgrader	Allows use of the Component Upgrader
-8412	TempUnits	TempUnits
+8376	Reduces incoming hull damage by 5% per rank	每级减少传入的船体伤害5%。
+8377	Damage Mitigation	伤害缓解
+8378	Reduces incoming system damage by 5% per rank	每级减少5%传入系统的伤害
+8379	Encumbered Sprint	枪手
+8380	Allows sprinting while encumbered	允许在携带武器的情况下进行冲刺
+8381	Turret Damage Booster	炮塔伤害增强器
+8382	All friendly ship turrets will deal 4% more damage per rank	所有友舰的炮塔每级的伤害将增加4%。
+8383	Upgraded Turret Power Conduits	升级的炮塔电源系统
+8384	All friendly ship turrets will charge 4% faster per rank	所有友舰的炮塔每级的充电速度将提高4%。
+8385	Custom Eye Implants	自定义眼植入物
+8386	Piloting UI provides additional information	导航UI提供额外的信息
+8387	Anti-Radiation Injection	抗辐射注射剂
+8388	Radiation damage is 8% less per rank	辐射伤害每级减少8%
+8389	Auxiliary Power	辅助动力
+8390	Aux systems generate 10% more power per rank	辅助系统每级多产生10%的能量
+8391	Diplomatic actions are 5% more likely to succeed per rank	每个等级提升外交行动成功的可能性增加5%。
+8392	Intimidation	恐吓
+8393	Intimidation actions are 5% more likely to succeed per rank	恐吓行动的成功率每级提高5%。
+8394	Extraction Training	提取训练
+8395	Increases chance of succesful extraction by 2% per rank	每级增加2%的成功提取的机会
+8396	Reactor Calibration	反应器校准
+8397	Increases core reactor output by 2% per rank	每级增加核心反应堆输出2%。
+8398	Reactor Cooling Specialist	反应堆冷却专家
+8399	Decreases core reactor heat output by 2% per rank	核心反应堆的热量输出每级减少2%。
+8400	Screen Defensive Measures	屏幕上的防御措施
+8401	Increases friendly screen capture time by 5% per rank	每级增加友军屏幕信息停留时间5%
+8402	Screen Hacker	黑客
+8403	Decreases enemy screen capture time by 5% per rank	每个等级的敌人屏幕捕捉时间减少5%。
+8404	Reloader	再次获取
+8405	Small chance of gaining some ammo every shot	每次射击都有小机会获得一些弹药
+8406	Screen Safety Systems	屏幕安全系统
+8407	Decreases chance of ship screens exploding in battle	减少了战斗中船体屏幕爆炸的机会
+8408	Item Upgrader Operator	项目升级器操作员
+8409	Allows use of the Item Upgrader	允许使用物品升级器
+8410	Component Upgrader Operator	组件升级器操作员
+8411	Allows use of the Component Upgrader	允许使用组件升级器
+8412	TempUnits	温度单位
 8413	PLHailTarget_StartPickupMission Start()	PLHailTarget_StartPickupMission Start()
 8414	OnNewLine: 	OnNewLine: 
 8415	ClientGetCurrentLine: 	ClientGetCurrentLine: 
@@ -7622,7 +7622,7 @@ ID	Original Text	Translated Text
 8712	[PL] has fired a turret in green alert	[PL] has fired a turret in green alert
 8715	 M$	 M$
 8716	Range	Range
-8717	Charge Time	Charge Time
+8717	Charge Time	充能时间
 8718	Dmg Type	伤害类型
 8719	 DPS)	 DPS)
 8720	Move Forward	Move Forward
