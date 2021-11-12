@@ -18,7 +18,7 @@ Terraformers：土地改造
 Long Range Warp Network：	长距离曲速网络
 Atriums:克隆再生舱
 Atrium:克隆再生
-Eldon Gatra:NPC名字统一为埃尔登·加特拉
+Eldon Gatra:埃尔登·加特拉
 Complications with Atriums:克隆再生并发症
 Vorcolp：沃尔科普
 Shardes：沙尔德人
@@ -36,13 +36,17 @@ borthix:玻色拉是什么鬼？？先暂时这样翻译吧
 Ultarin:奥特伦
 Albina Burton：阿尔比纳·伯顿
 Drahvix:德拉维克斯
-Wulfrom Kas:沃夫罗姆-卡斯
+Wulfrom Kas:沃夫罗姆·卡斯
 Wolden-Dorf:沃顿·多夫
 sundust:日光粉
 Jarkos：贾可斯
 Nelaxus  尼拉克斯
 Galicus 伽利克斯
 AVARICE  贪婪者
+Gideon	吉迪恩
+aliance    瓦里安号
+Kip Fulgen 基普·富尔根
+EM Signature  电磁辐射
 
 crew: 组员/舰员/房间？
 主界面的在线游戏列表里感觉翻译为组员比较合适，因为这里的crew指的是全体舰员，相当于机组的意思（但机组是指客机上的全体工作人员啊……），但组员的话又怪怪的，这个词好像比较少用于形容全体舰员。如果翻译为房间的话意思倒是很接近，但是还是差那个意思：毕竟是Crew不是Room，果然还是组员什么的比较好吧。
